@@ -5,7 +5,7 @@ Se usa Python para realizar toda la exploración de los datos: tanto a nivel des
 
 01_Preprocessing: primer contacto con los datos.
 
-02_Analisis_Descriptivo:
+02_Analisis_Descriptivo: análisis descriptivo y exploratorio
 
 03_Series_Temporales_Prcp_Definitivo: diferentes modelos de series temporal (regresión lineal, ARIMA, RNN) para la variable Precipitación.
 
